@@ -1,0 +1,8 @@
+{
+  "name": "genpark-cdp-event-schema-validator-and-identity-stitcher-skill",
+  "version": "1.0.0",
+  "description": "Customer Data Platform (CDP) tracking plan schema validator and deterministic identity graph stitcher",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
